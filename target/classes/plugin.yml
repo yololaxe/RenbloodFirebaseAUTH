@@ -1,0 +1,15 @@
+name: RbFirebaseAuth
+version: '1.0-SNAPSHOT'
+main: ren.yololaxe.rbfirebaseauth.main
+api-version: '1.16'
+authors: [yololaxe]
+description: main plugin for Le Royaume de Renblood
+commands:
+  mystats:
+    description: Permet de regarder ses statistiques
+    aliases: ms
+    permission: mystats.use
+  initialization:
+    description: Permet d'initialiser un joueur
+    aliases: init
+    permission: init.use
