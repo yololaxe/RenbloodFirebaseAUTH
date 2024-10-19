@@ -95,7 +95,7 @@ public class PlayerModel {
     }
 
     private static final int[] PALIERS_1 = {20, 50, 90, 140, 200, 270, 350, 450, 600, 750, 1000, 1250, 1600, 2000, 3000};
-    private static final int[] PALIERS_2 = {25, 60, 100, 150, 220, 300, 400, 550, 750, 1000};
+    private static final int[] PALIERS_2 = {25, 60, 100, 150, 220, 300, 400, 550, 750, 1001};
     private static final int[] PALIERS_3 = {50, 100, 220, 350, 500};
 
     public int[] getLevels() {
