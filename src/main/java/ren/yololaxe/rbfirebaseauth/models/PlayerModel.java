@@ -78,7 +78,7 @@ public class PlayerModel {
                 "§7Etranger",
                 "§fVillageois",
                 "§2Citoyen",
-                "§2Citoyen Libre",
+                "§2Citoyen_Libre",
                 "§aPatricien",
                 "§eNoble",
                 "§6Seigneur",
